@@ -1,4 +1,5 @@
 # vimrc
 
-git clone https://github.com/Ravnii/vimrc.git ~/vimrc
-mv ~/vimrc ~/.vimrc
+cd ~
+
+git clone https://github.com/Ravnii/.vimrc.git
