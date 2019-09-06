@@ -24,7 +24,6 @@ Plugin 'marciomazza/vim-brogrammer-theme'
 Plugin 'scwood/vim-hybrid'
 Plugin 'terryma/vim-multiple-cursors'
 Plugin 'tpope/vim-fugitive'
-Plugin 'joonty/vim-phpunitqf'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'wesQ3/vim-windowswap'
 
